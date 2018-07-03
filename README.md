@@ -1,1 +1,2 @@
 # coinchat-icon
+test
