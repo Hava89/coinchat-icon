@@ -15,4 +15,4 @@ Coinchat logo 是必聊官方的logo标识，内含图形icon（logo_icon）、�
 ### 2) 图形与文字组合（logo）
 包含中文（ch）与英文（en）的样式组合，分别有彩色、黑色与白色三个类型的logo图标。
 
-![](demo/logo.jpg)
+![](demo/logo.png)
