@@ -2,7 +2,7 @@
 ## 1. App icon
 Coinchat app icon 是必聊官方应用的应用图标，内含有圆角（rounded_corner）和方形（normal）的两种应用图标，分别有48\*48px、96\*96px、144\*144px、192\*192px四个尺寸。
 
-![](demo/demo01.png)
+![](demo/demo01.svg)
 
 ## 2. Coinchat logo
 Coinchat logo 是必聊官方的 logo 标识，内含图形icon（logo_icon）、图形与文字组合（logo）两类。
