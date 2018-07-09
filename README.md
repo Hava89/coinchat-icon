@@ -23,6 +23,6 @@ Coinchat logo 是必聊官方的 logo 标识，内含图形icon（logo_icon）�
 
 ![](demo/demo04.svg)
 
-2）白色 logo 元素 需要配合深色背景使用；彩色和黑色 logo 元素需要配合浅色背景使用。
+2）白色 logo 元素需要配合深色背景使用；彩色和黑色 logo 元素需要配合浅色背景使用。
 
 ![](demo/demo05.svg)
